@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+train_logs/
+dataset/
+__pycache__/
+train_logs/
+test_results
+figures/
+
